@@ -27,7 +27,7 @@ git clone <your-repository-url>
 cd <repository-folder>
 
 2. Install Dependencies
-Install the required Python libraries using the requirements.txt file. This file includes all necessary packages, including xgboost.
+Install the required Python libraries using the requirements.txt file. This file includes all necessary packages, including xgboost and statsmodels
 
 pip install -r requirements.txt
 
