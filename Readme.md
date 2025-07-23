@@ -1,6 +1,9 @@
 🎓 High-Accuracy Student Performance Predictor
 This is an advanced, interactive web application built with Streamlit that uses a powerful Stacked Ensemble machine learning model to predict a student's final exam score with high accuracy. The model focuses on three key input features: weekly hours studied, previous exam scores, and class attendance.
 
+Visit this link for my project:
+https://students-score-prediction.streamlit.app/
+
 🌟 Features
 1.High-Accuracy Predictions: Utilizes a stacked ensemble model (combining XGBoost and Random Forest) to achieve a high degree of prediction accuracy.
 
